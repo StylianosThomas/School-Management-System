@@ -7,3 +7,4 @@ Tools Used
     I used wampserver64 and phpMyAdmin to interact with the database.
     The file school.sql has to be executed in phpMyAdmin to create the database.
     The rest of the files were written through Visual Studio Code.
+
